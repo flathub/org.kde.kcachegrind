@@ -29,8 +29,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/20.04.2/src/kcachegrind-20.04.2.tar.xz",
-                    "sha256": "b2b5fac52c01a0d11cfe0875f2f87dfe60f854c196d58e3a9ff14a557ebfd7b2"
+                    "url": "https://download.kde.org/stable/release-service/20.04.3/src/kcachegrind-20.04.3.tar.xz",
+                    "sha256": "ef6e782540c254eada9e75049eb02919afd7adc9940ace79aa20dcad26240770"
                 },
                 {
                     "type": "patch",
