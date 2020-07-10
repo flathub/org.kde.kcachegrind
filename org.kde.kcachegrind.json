@@ -35,6 +35,26 @@
                 {
                     "type": "patch",
                     "path": "0001-appdata.xml-Minor-fixes-for-Flathub.patch"
+                },
+                {
+                    "type": "file",
+                    "path": "128-apps-kcachegrind.png",
+                    "dest-filename": "kcachegrind/128-apps-kcachegrind.png"
+                },
+                {
+                    "type": "file",
+                    "path": "64-apps-kcachegrind.png",
+                    "dest-filename": "kcachegrind/64-apps-kcachegrind.png"
+                },
+                {
+                    "type": "file",
+                    "path": "48-apps-kcachegrind.png",
+                    "dest-filename": "kcachegrind/48-apps-kcachegrind.png"
+                },
+                {
+                    "type": "file",
+                    "path": "32-apps-kcachegrind.png",
+                    "dest-filename": "kcachegrind/32-apps-kcachegrind.png"
                 }
             ]
         }
