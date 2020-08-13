@@ -29,12 +29,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/20.04.3/src/kcachegrind-20.04.3.tar.xz",
-                    "sha256": "ef6e782540c254eada9e75049eb02919afd7adc9940ace79aa20dcad26240770"
-                },
-                {
-                    "type": "patch",
-                    "path": "0001-appdata.xml-Minor-fixes-for-Flathub.patch"
+                    "url": "https://download.kde.org/stable/release-service/20.08.0/src/kcachegrind-20.08.0.tar.xz",
+                    "sha256": "94b3963e9eebc0bf67644de1666cf019649f5eaf924ac01c1af6e48619a11f87"
                 }
             ]
         }
