@@ -29,8 +29,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/21.04.3/src/kcachegrind-21.04.3.tar.xz",
-                    "sha256": "25d01173e31b8715bd1b22546ef9c39cf4f555d9860a106d34588bae55793926"
+                    "url": "https://download.kde.org/stable/release-service/21.08.1/src/kcachegrind-21.08.1.tar.xz",
+                    "sha256": "fb8bbbba0178f33c8a4bdace2fdfe747036822b5fa9013b5905a1de5198def27"
                 }
             ]
         }
