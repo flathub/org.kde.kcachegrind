@@ -19,7 +19,13 @@
                 {
                     "type": "archive",
                     "url": "https://gitlab.com/graphviz/graphviz/-/archive/2.50.0/graphviz-2.50.0.tar.bz2",
-                    "sha256": "262b4285530f5804f656e643bfccf0e910fcfc483639921209e16fd7a04bebe0"
+                    "sha256": "262b4285530f5804f656e643bfccf0e910fcfc483639921209e16fd7a04bebe0",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 1249,
+                        "stable-only": true,
+                        "url-template": "https://gitlab.com/graphviz/graphviz/-/archive/$version/graphviz-$version.tar.bz2"
+                    }
                 }
             ]
         },
@@ -30,7 +36,13 @@
                 {
                     "type": "archive",
                     "url": "https://download.kde.org/stable/release-service/21.12.3/src/kcachegrind-21.12.3.tar.xz",
-                    "sha256": "ddcf3722211d47c90616528607ebc4573835faa52a57e2e9d6763968b9975ab3"
+                    "sha256": "ddcf3722211d47c90616528607ebc4573835faa52a57e2e9d6763968b9975ab3",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 8763,
+                        "stable-only": true,
+                        "url-template": "https://download.kde.org/stable/release-service/$version/src/kcachegrind-$version.tar.xz"
+                    }
                 }
             ]
         }
