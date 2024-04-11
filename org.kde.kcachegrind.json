@@ -36,14 +36,18 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.02.0/src/kcachegrind-24.02.0.tar.xz",
-                    "sha256": "e11d5161650a54db22444b193d521e7bd8c970b8b082e158831983746e0165f5",
+                    "url": "https://download.kde.org/stable/release-service/24.02.2/src/kcachegrind-24.02.2.tar.xz",
+                    "sha256": "1c43099fa42a389e9ff92613b550e6606a9de9d5b57a10a4b08ab513e5a67b9c",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/kcachegrind-$version.tar.xz"
                     }
+                },
+                {
+                    "type": "patch",
+                    "path": "fix-launchable.patch"
                 }
             ]
         }
