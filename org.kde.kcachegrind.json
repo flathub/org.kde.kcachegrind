@@ -44,10 +44,6 @@
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/kcachegrind-$version.tar.xz"
                     }
-                },
-                {
-                    "type": "patch",
-                    "path": "fix-launchable.patch"
                 }
             ]
         }
