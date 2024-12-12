@@ -36,8 +36,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.08.3/src/kcachegrind-24.08.3.tar.xz",
-                    "sha256": "6f51a60e44855b177c4d7972e3b560181c074ba5752ea42759624e03fbbf2e1b",
+                    "url": "https://download.kde.org/stable/release-service/24.12.0/src/kcachegrind-24.12.0.tar.xz",
+                    "sha256": "163e23e2f18874e90cbad8b4cb8b3b25fbfd0513d5acf182f2c0d92e8a3c48ba",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
