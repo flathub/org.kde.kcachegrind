@@ -19,8 +19,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://gitlab.com/graphviz/graphviz/-/archive/14.0.5/graphviz-14.0.5.tar.bz2",
-                    "sha256": "41ed6ab8a6a1dd247d44292907e02596c645a1c13e3b3705d87ea6f8c68fa007",
+                    "url": "https://gitlab.com/graphviz/graphviz/-/archive/14.1.0/graphviz-14.1.0.tar.bz2",
+                    "sha256": "64d7bf08b5d48c05ad1e35fb87f42fe632d8775b42b31e7b8ee9e1e4a7c9fb76",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 1249,
@@ -36,8 +36,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.08.3/src/kcachegrind-25.08.3.tar.xz",
-                    "sha256": "aec838dfa806b438d198f5bb66a2a9925ecdb86d09da86c593a21302052b0bbe",
+                    "url": "https://download.kde.org/stable/release-service/25.12.0/src/kcachegrind-25.12.0.tar.xz",
+                    "sha256": "76696fdedd0add62691191bcc51ede39cd42ee31a1724de43f38a4cbb5bdfc08",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
