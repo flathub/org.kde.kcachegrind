@@ -39,6 +39,7 @@
                     "url": "https://download.kde.org/stable/release-service/25.12.1/src/kcachegrind-25.12.1.tar.xz",
                     "sha256": "f291cddad712e84deb19202aa8641d6950cfd52228df5f3341b76bfc5768737d",
                     "x-checker-data": {
+                        "is-main-source": true,
                         "type": "anitya",
                         "project-id": 8763,
                         "stable-only": true,
