@@ -12,7 +12,7 @@
         "--socket=fallback-x11",
         "--socket=wayland"
     ],
-     "cleanup": [
+    "cleanup": [
         "/include",
         "/lib/pkgconfig",
         "/share/aclocal",
@@ -28,8 +28,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://gitlab.com/graphviz/graphviz/-/archive/14.1.2/graphviz-14.1.2.tar.bz2",
-                    "sha256": "8ba7611c378b3e82f2a0ca5fc9dbcc5fef77c86d9fdfe3281f8f59eaab3314f6",
+                    "url": "https://gitlab.com/graphviz/graphviz/-/archive/14.1.4/graphviz-14.1.4.tar.bz2",
+                    "sha256": "a75880f4131a587c2f33416d8aff0075091c70ec9ef86637efe1bf1de8a6aba4",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 1249,
@@ -45,8 +45,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.2/src/kcachegrind-25.12.2.tar.xz",
-                    "sha256": "46e837b3ad12f9dbea68eed040219ce7e66ac58b47fc29430a1a4f93d7591b07",
+                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/kcachegrind-25.12.3.tar.xz",
+                    "sha256": "e96acc0d688b12940ecc8896ab89ffd158bdf595fc69ad6d4a380e28e2e8efd2",
                     "x-checker-data": {
                         "is-main-source": true,
                         "type": "anitya",
